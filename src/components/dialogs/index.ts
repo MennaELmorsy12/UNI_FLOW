@@ -1,0 +1,11 @@
+export * from './ScheduleDialog';
+export * from './CoursesDialog';
+export * from './CourseDetailDialog';
+export * from './GradesDialog';
+export * from './AttendanceDialog';
+export * from './TasksDialog';
+export * from './ProfileDialog';
+export * from './SearchDialog';
+export * from './NotificationsDialog';
+export * from './SupportDialog';
+export { default as DialogCenter } from './DialogCenter';
